@@ -1018,12 +1018,12 @@ a {
 }
 .cid-sFGMfPD7iT .mbr-section-title {
   text-align: center;
-  color: #353535;
+  color: #ffffff;
 }
 .cid-sFGMfPD7iT .mbr-text,
 .cid-sFGMfPD7iT .mbr-section-btn {
   text-align: center;
-  color: #5f6366;
+  color: #ffffff;
 }
 .cid-sFGOTvnvck {
   padding-top: 6rem;
@@ -1108,9 +1108,6 @@ a {
 .cid-uHEw0qjnXY img,
 .cid-uHEw0qjnXY .item-img {
   width: 100%;
-  height: 100%;
-  height: 300px;
-  object-fit: cover;
 }
 .cid-uHEw0qjnXY .item:focus,
 .cid-uHEw0qjnXY span:focus {
